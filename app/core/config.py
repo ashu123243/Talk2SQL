@@ -16,7 +16,7 @@ class Settings(BaseSettings):
     gemini_api_key_3: str = ""
     
     ollama_base_url: str = "http://localhost:11434"
-    ollama_model: str = "sqlcoder:7b"
+    ollama_model: str = "qwen2.5-coder:7b"
 
     database_url: str = (
         "postgresql+psycopg://talk2sql_user:"
