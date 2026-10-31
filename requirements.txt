@@ -1,0 +1,11 @@
+# LangChain and Ollama
+langchain
+langchain-ollama
+
+# LangGraph orchestration
+langgraph
+langchain-google-genai
+# Configuration and validation
+python-dotenv
+pydantic
+pydantic_settings
