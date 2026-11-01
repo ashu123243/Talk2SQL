@@ -12,3 +12,8 @@ __pycache__/
 
 # Testing
 .pytest_cache/
+
+# Log files
+logs/
+*.log
+*.log.*
